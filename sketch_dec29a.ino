@@ -37,5 +37,7 @@ delay(1000);
 Position = Dynamixel.readPosition(SERVO_ID);
 mySerial.print(Position);
 delay(1000);
- 
+   
+
+   
 }
